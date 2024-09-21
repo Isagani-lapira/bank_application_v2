@@ -1,0 +1,34 @@
+{
+  "2020101933": {
+    "name": {
+      "first_name": "Isagani",
+      "last_name": "Lapira"
+    },
+    "status": "Activated",
+    "balance": 100.0
+  },
+  "2020101944": {
+    "name": {
+      "first_name": "Jayr",
+      "last_name": "Lapira"
+    },
+    "status": "Deactivated",
+    "balance": 100.0
+  },
+  "2020109922": {
+    "name": {
+      "first_name": "Lorraine",
+      "last_name": "Dela Cruz"
+    },
+    "status": "Activated",
+    "balance": 0.0
+  },
+  "123456789123": {
+    "name": {
+      "first_name": "asdf",
+      "last_name": "asfd"
+    },
+    "status": "Activated",
+    "balance": 1.0
+  }
+}

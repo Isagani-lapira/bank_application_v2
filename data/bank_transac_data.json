@@ -1,0 +1,46 @@
+{
+  "unique_id": {
+    "account_number": "123456789123",
+    "date": "2020-10-19",
+    "description": "Bought Jollibee",
+    "credit": "",
+    "debit": "",
+    "balance": 100.0
+  },
+  "123#dfa": {
+    "account_number": "123456789123",
+    "date": "2024-12-19",
+    "description": "Kain sa jollibee",
+    "credit": "",
+    "debit": "True",
+    "deducted_money": 25000.0,
+    "balance": 3000.0
+  },
+  "1231daf": {
+    "account_number": "123456789123",
+    "date": "2020-10-19",
+    "description": "asdfsdf",
+    "credit": "",
+    "debit": "",
+    "deducted_money": 25.0,
+    "balance": 0.0
+  },
+  "asdfas3": {
+    "account_number": "123456789123",
+    "date": "2020-10-19",
+    "description": "1piece mcdo",
+    "credit": "",
+    "debit": "",
+    "deducted_money": 993.0,
+    "balance": 6.0
+  },
+  "123adfs": {
+    "account_number": "123456789123",
+    "date": "fda",
+    "description": "asd",
+    "credit": false,
+    "debit": true,
+    "deducted_money": 1.0,
+    "balance": 1.0
+  }
+}
